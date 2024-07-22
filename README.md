@@ -52,7 +52,8 @@ python heart_attack.py
 ```
 
 2. Enter features when prompted
-   1. High susceptibility to heart attack 
+   1. High susceptibility to heart attack 💀
+   
    *Sample metrics of a patient who has a high chance of having a heart attack:*
     ``` 
     age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng
@@ -66,7 +67,7 @@ python heart_attack.py
 
     ![High chance](images/high_chance.png)
 
-    2. Low susceptibility to heart attack
+    2. Low susceptibility to heart attack 🎉
 
     *Sample metrics of a patient who has a low chance of having a heart attack:*
     ``` 
