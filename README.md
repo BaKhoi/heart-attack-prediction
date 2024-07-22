@@ -56,7 +56,7 @@ python heart_attack.py
    
    *Sample metrics of a patient who has a high chance of having a heart attack:*
     
-    **age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng**
+    **age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng** </br>
     56-0-1-120-236-0-1-178-0-0.8-2-0-2
     
 
@@ -73,7 +73,7 @@ python heart_attack.py
 
     *Sample metrics of a patient who has a low chance of having a heart attack:*
     
-    **age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng**
+    **age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng** </br>
     45-0-0-120-180-0-1-170-0-2-0-2-0
     
 
