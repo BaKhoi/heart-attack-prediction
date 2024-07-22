@@ -64,7 +64,7 @@ python heart_attack.py
 
     **Prediction**
 
-    ![High chance](images\high_chance.png)
+    ![High chance](images/high_chance.png)
 
     2. Low susceptibility to heart attack
 
@@ -78,6 +78,7 @@ python heart_attack.py
         56 0 1 120 236 0 1 178 0 0.8 2 0 2
 
     **Prediction**
+
     ![low chance](images/low_chance.png)
 
 
