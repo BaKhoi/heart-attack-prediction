@@ -46,13 +46,13 @@ The best model was the **Random Forest Classifier** with hyperparameters tuning:
 **Accuracy: 0.86885**
 
 ## Usage
-1. Run the script
+1. **Run the script**
 ```
 python heart_attack.py
 ```
 
-2. Enter features when prompted
-   1. High susceptibility to heart attack 💀
+2. **Enter features when prompted**
+   1. **High susceptibility to heart attack 💀**
    
    *Sample metrics of a patient who has a high chance of having a heart attack:*
     ``` 
@@ -61,7 +61,9 @@ python heart_attack.py
     ```
 
     Entering the metrics without hyphens:
+    ```
     56 0 1 120 236 0 1 178 0 0.8 2 0 2
+    ```
 
     **Prediction**
 
@@ -75,8 +77,10 @@ python heart_attack.py
     56-0-1-120-236-0-1-178-0-0.8-2-0-2
     ```
 
-        Entering the metrics without hyphens:
-        56 0 1 120 236 0 1 178 0 0.8 2 0 2
+    Entering the metrics without hyphens:
+    ```
+    56 0 1 120 236 0 1 178 0 0.8 2 0 2
+    ```
 
     **Prediction**
 
