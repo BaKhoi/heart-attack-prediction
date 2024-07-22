@@ -55,10 +55,10 @@ python heart_attack.py
    1. **High susceptibility to heart attack 💀**
    
    *Sample metrics of a patient who has a high chance of having a heart attack:*
-    ``` 
-    age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng
+    
+    **age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng**
     56-0-1-120-236-0-1-178-0-0.8-2-0-2
-    ```
+    
 
     Entering the metrics without hyphens:
     ```
@@ -69,17 +69,17 @@ python heart_attack.py
 
     ![High chance](images/high_chance.png)
 
-    2. Low susceptibility to heart attack 🎉
+    2. **Low susceptibility to heart attack** 🎉
 
     *Sample metrics of a patient who has a low chance of having a heart attack:*
-    ``` 
-    age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng
-    56-0-1-120-236-0-1-178-0-0.8-2-0-2
-    ```
+    
+    **age-sex-cp-trtbps-chol-fps-restecg-thalachh-oldpeak-slp-caa-thall-exng**
+    45-0-0-120-180-0-1-170-0-2-0-2-0
+    
 
     Entering the metrics without hyphens:
     ```
-    56 0 1 120 236 0 1 178 0 0.8 2 0 2
+    45 0 0 120 180 0 1 170 0 2 0 2 0
     ```
 
     **Prediction**
